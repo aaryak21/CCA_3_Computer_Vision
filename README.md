@@ -1,5 +1,3 @@
-# CCA_3_Computer_Vision
-
 # CCA 3 – Computer Vision Assignment
 
 **Student Name:** Aarya Suhas Kudale  
