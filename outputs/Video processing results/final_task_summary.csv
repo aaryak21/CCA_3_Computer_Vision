@@ -1,0 +1,7 @@
+Experiment,Status
+Viola-Jones Face Detection,Completed
+YOLOv8 Object Detection,Completed
+Video Frame Extraction,Completed
+Frame Differencing,Completed
+GMM Background Subtraction,Completed
+Lucas-Kanade Optical Flow,Completed
